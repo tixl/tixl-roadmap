@@ -19,7 +19,7 @@ Full description of the proposal
 Describe actions that have to be taken
 - use a list item for each action
 
-## Goals
+## Goals / Reason
 What should be achieved by executing proposal. What is the desired outcome?
 
 ## Timeline
