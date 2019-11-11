@@ -32,6 +32,9 @@ Find a more detailed insight into the development status [here](https://github.c
 ### Events
 
 - [x] [Blockchain Summit Malta](https://maltablockchainsummit.com/) (November 7-8)
+  
+  Update we posted about Malta in our [Telegram](https://t.me/tixlcurrency) chat: 
+  > We recognized that attending conferences is not effective for Tixl at the moment. The travel costs and, more importantly, the time investment does not match the potentially returned business value. That is something different e.g., for the Dubai event where the event is all about investing. Accordingly, we will not attend any crypto/blockchain conferences for the time being unless a conference invites us for speaker slots on big stages. We still made some new contacts that could be helpful for the Tixl project, but the result didn't match our expectations. So that was probably the most significant learning for us.
 - [ ] [Ritossa Family Office Summit](https://ritossafamilyoffice.com/) (November 23-25)
 
 ### Hodlers Club
