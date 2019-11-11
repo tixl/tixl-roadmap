@@ -25,13 +25,13 @@ Find a more detailed insight into the development status [here](https://github.c
 
 - [x] [Executive summary](https://tixl.me/executive-summary) update
 - [x] [Pitch deck](https://tixl.me/pitch-deck) update
-- [ ] [Whitepaper](https://tixl.me/whitepaper) update
+- [x] [Whitepaper](https://tixl.me/whitepaper) update
 - [ ] News subpage
 - [ ] TGR subpage
 
 ### Events
 
-- [ ] [Blockchain Summit Malta](https://maltablockchainsummit.com/) (November 7-8)
+- [x] [Blockchain Summit Malta](https://maltablockchainsummit.com/) (November 7-8)
 - [ ] [Ritossa Family Office Summit](https://ritossafamilyoffice.com/) (November 23-25)
 
 ### Hodlers Club
@@ -48,7 +48,7 @@ Due to NDAs, not all planned marketing efforts will be listed here. Also we'll a
 - [ ] Tracked [CMC](https://coinmarketcap.com) listing
 - [ ] Articles in the German magazines ["Handelsblatt"](https://www.handelsblatt.com/) and ["WirtschaftsWoche"](https://www.wiwo.de/)
 - [ ] Articles in "main stream" crypto magazines
-- [ ] Exchange listing with MTXLT/BTC pair
+- [x] Exchange listing with MTXLT/BTC pair
 
 ### Tixl Global Reserve (TGR)
 - [ ] Medium Status Update
