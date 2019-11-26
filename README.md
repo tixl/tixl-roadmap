@@ -17,7 +17,7 @@ Find a more detailed insight into the development status [here](https://github.c
 ### Token Sale
 - [x] Token sale phase 3 start
 - [x] Token sale phase 3 lockup period options
-- [ ] Setup Pipedrive with all potential private investors (VCs, family offices, etc.)
+- [x] Setup Pipedrive with all potential private investors (VCs, family offices, etc.)
 - [ ] Approach all private investors from Pipedrive
 - [ ] Onboard one or more new advisors with the main goal of using their potential investors network
 
@@ -27,7 +27,7 @@ Find a more detailed insight into the development status [here](https://github.c
 - [x] [Pitch deck](https://tixl.me/pitch-deck) update
 - [x] [Whitepaper](https://tixl.me/whitepaper) update
 - [ ] News subpage
-- [ ] TGR subpage
+- [x] TGR subpage
 
 ### Events
 
@@ -35,10 +35,10 @@ Find a more detailed insight into the development status [here](https://github.c
   
   Update we posted about Malta in our [Telegram](https://t.me/tixlcurrency) chat: 
   > We recognized that attending conferences is not effective for Tixl at the moment. The travel costs and, more importantly, the time investment does not match the potentially returned business value. That is something different e.g., for the Dubai event where the event is all about investing. Accordingly, we will not attend any crypto/blockchain conferences for the time being unless a conference invites us for speaker slots on big stages. We still made some new contacts that could be helpful for the Tixl project, but the result didn't match our expectations. So that was probably the most significant learning for us.
-- [ ] [Ritossa Family Office Summit](https://ritossafamilyoffice.com/) (November 23-25)
+- [x] [Ritossa Family Office Summit](https://ritossafamilyoffice.com/) (November 23-25)
 
 ### Hodlers Club
-- [ ] Private Telegram group
+- [x] Private Telegram group
 
 ### Marketing
 
@@ -54,7 +54,7 @@ Due to NDAs, not all planned marketing efforts will be listed here. Also we'll a
 - [x] Exchange listing with MTXLT/BTC pair
 
 ### Tixl Global Reserve (TGR)
-- [ ] Medium Status Update
+- [x] Medium Status Update
 - [ ] Legal clarification in regards to a potential "backing"
 
 ## Long-term
