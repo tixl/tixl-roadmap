@@ -50,7 +50,7 @@ Due to NDAs, not all planned marketing efforts will be listed here. Also we'll a
 - Spread news about Tixl via Crypto YouTubers 
   - [x] [IvanOnTech November Update](https://www.youtube.com/watch?v=Ie-SrqTKrZ4&feature=youtu.be&t=1790)
   - [ ] *... more coming soon* 
-- [ ] Tracked [CMC](https://coinmarketcap.com) listing
+- [x] Tracked [CMC](https://coinmarketcap.com) listing
 - [x] Articles in the German magazines ["Handelsblatt"](https://www.handelsblatt.com/) and ["WirtschaftsWoche"](https://www.wiwo.de/)
 - [ ] Articles in "main stream" crypto magazines
 - [x] Exchange listing with MTXLT/BTC pair
