@@ -52,8 +52,9 @@ Due to NDAs, not all planned marketing efforts will be listed here. Also we'll a
   - [ ] *... more coming soon* 
 - [x] Tracked [CMC](https://coinmarketcap.com) listing
 - [x] Articles in the German magazines ["Handelsblatt"](https://www.handelsblatt.com/) and ["WirtschaftsWoche"](https://www.wiwo.de/)
-- [ ] Articles in "main stream" crypto magazines
+- [x] Articles in "main stream" crypto magazines
   - [x] [kryptoszene.de](https://kryptoszene.de/Konkurrenz+f%C3%BCr+IOTA%3A+wie+eine+Hamburger+Kryptow%C3%A4hrung+Investoren+an+Land+ziehen+m%C3%B6chte+-+ein+Interview+mit+Tixl)
+  - [ ] *... more coming soon* 
 - [x] Exchange listing with MTXLT/BTC pair
 
 ### Tixl Global Reserve (TGR)
