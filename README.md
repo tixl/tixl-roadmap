@@ -12,7 +12,7 @@ In case you are interested in what we achieved before Q4 2019, please check our 
 
 Find a more detailed insight into the development status [here](https://github.com/tixl/tixl-prototype-status).
 
-- [ ] Launch the Tixl Prototype
+- [x] [Launch the Tixl Testnet "Altona"](https://medium.com/tixlcurrency/tixl-testnet-rc-altona-e3198c88af02)
 
 ### Token Sale
 - [x] Token sale phase 3 start
