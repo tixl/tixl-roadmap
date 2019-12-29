@@ -49,11 +49,15 @@ Due to NDAs, not all planned marketing efforts will be listed here. Also we'll a
 - [x] Detailed marketing strategy
 - Spread news about Tixl via Crypto YouTubers 
   - [x] [IvanOnTech November Update](https://www.youtube.com/watch?v=Ie-SrqTKrZ4&feature=youtu.be&t=1790)
+  - [x] [Tech con Catalina (ES)](https://youtu.be/RN1kQg28xws?t=912)
+  - [x] [Atamert Uysaler (TR)](https://www.youtube.com/watch?v=cxjwh1cyymE)
   - [ ] *... more coming soon* 
 - [x] Tracked [CMC](https://coinmarketcap.com) listing
 - [x] Articles in the German magazines ["Handelsblatt"](https://www.handelsblatt.com/) and ["WirtschaftsWoche"](https://www.wiwo.de/)
 - [x] Articles in "main stream" crypto magazines
   - [x] [kryptoszene.de (German)](https://kryptoszene.de/Konkurrenz+f%C3%BCr+IOTA%3A+wie+eine+Hamburger+Kryptow%C3%A4hrung+Investoren+an+Land+ziehen+m%C3%B6chte+-+ein+Interview+mit+Tixl)
+  - [x] [IvanKR: Tixl (The Cryptocurrency That Changes The Game)](https://medium.com/@ivankrwrites/tixl-the-cryptocurrency-that-changes-the-game-7550aa2628b7)
+  - [x] [The Daily Chain Primers: Tixl Introduction](https://thedailychain.com/the-daily-chain-primers-tixl-introduction/)
   - [ ] *... more coming soon* 
 - [x] Exchange listing with MTXLT/BTC pair
 
