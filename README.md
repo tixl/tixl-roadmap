@@ -58,6 +58,7 @@ Due to NDAs, not all planned marketing efforts will be listed here. Also we'll a
   - [x] [kryptoszene.de (German)](https://kryptoszene.de/Konkurrenz+f%C3%BCr+IOTA%3A+wie+eine+Hamburger+Kryptow%C3%A4hrung+Investoren+an+Land+ziehen+m%C3%B6chte+-+ein+Interview+mit+Tixl)
   - [x] [IvanKR: Tixl (The Cryptocurrency That Changes The Game)](https://medium.com/@ivankrwrites/tixl-the-cryptocurrency-that-changes-the-game-7550aa2628b7)
   - [x] [The Daily Chain Primers: Tixl Introduction](https://thedailychain.com/the-daily-chain-primers-tixl-introduction/)
+  - [x] [Hackernoon: If You Were To Restart Your Blockchain Startup From Scratch In 2020. What Would You Do Differently?](https://hackernoon.com/if-you-were-to-start-your-blockchain-startup-from-scratch-in-2020-what-would-you-do-differently-wjp32du)
   - [ ] *... more coming soon* 
 - [x] Exchange listing with MTXLT/BTC pair
 
