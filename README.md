@@ -29,8 +29,8 @@ Find a more detailed insight into the development status [here](https://github.c
 - [x] [Whitepaper](https://tixl.me/whitepaper) update
 - [ ] News subpage
 - [x] [TGR subpage](https://tixl.me/tgr/)
-- [ ] Add the new second layer concept mentioned [here](https://medium.com/tixlcurrency/tixl-status-update-4-8d0c19750dfb)
-- [ ] Add the social reward program mentioned [here](https://medium.com/tixlcurrency/tixl-status-update-4-8d0c19750dfb)
+- [x] Add the new second layer concept mentioned [here](https://medium.com/tixlcurrency/tixl-status-update-4-8d0c19750dfb)
+- [x] Add the social reward program mentioned [here](https://medium.com/tixlcurrency/tixl-status-update-4-8d0c19750dfb)
 
 ### Events
 
@@ -64,14 +64,14 @@ Due to NDAs, not all planned marketing efforts will be listed here. Also we'll a
   - [x] [Hackernoon: If You Were To Restart Your Blockchain Startup From Scratch In 2020. What Would You Do Differently?](https://hackernoon.com/if-you-were-to-start-your-blockchain-startup-from-scratch-in-2020-what-would-you-do-differently-wjp32du)
   - [ ] *... more coming soon* 
 - [x] Exchange listing with MTXLT/BTC pair
-- [ ] Setup the [social reward program](https://medium.com/tixlcurrency/tixl-status-update-4-8d0c19750dfb)
+- [x] Setup the [social reward program](https://medium.com/tixlcurrency/tixl-status-update-4-8d0c19750dfb)
 
 ### Tixl Global Reserve (TGR)
 - [x] [Medium Status Update](https://medium.com/tixlcurrency/tixl-global-reserve-tgr-update-c59bee09c66d)
 - [ ] Legal clarification in regards to a potential "backing"
 
 ## The Tixl Network as a Second Layer Solution 
-- [ ] Launch prototype which is able to send BTC through the Tixl Testnet
+- [x] Launch prototype which is able to send BTC through the Tixl Testnet
 
 ## Long-term
 
